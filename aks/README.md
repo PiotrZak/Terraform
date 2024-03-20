@@ -1,0 +1,1 @@
+A more detailed example that includes a MySQL database, Kubernetes cluster, associated application and Kubernetes manifests.
